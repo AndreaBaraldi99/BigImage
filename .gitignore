@@ -1,0 +1,7 @@
+/test_v2
+/train_v2
+/used_all_images
+/.venv
+/.streamlit
+/venv
+*.pt
