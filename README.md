@@ -273,9 +273,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- 📧 **Email**: [your.email@example.com](mailto:andrea.baraldi99@hotmail.it)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/andrea-baraldi-355ba1276)
-- 🐱 **GitHub**: [@yourusername](https://github.com/andreabaraldi99)
+- 📧 **Email**: [andrea.baraldi99@hotmail.it](mailto:andrea.baraldi99@hotmail.it)
+- 💼 **LinkedIn**: [Andrea Baraldi](www.linkedin.com/in/andrea-baraldi-355ba1276)
+- 🐱 **GitHub**: [@AndreaBaraldi99](https://github.com/AndreaBaraldi99)
 
 ---
 
